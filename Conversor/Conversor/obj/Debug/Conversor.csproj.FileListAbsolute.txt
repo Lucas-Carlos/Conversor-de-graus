@@ -1,0 +1,40 @@
+C:\Users\Alexandre\source\repos\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Alexandre\source\repos\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\Alexandre\source\repos\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Alexandre\source\repos\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\Conversor\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\Alexandre\source\repos\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Alexandre\source\repos\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Alexandre\source\repos\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\Alexandre\source\repos\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\Alexandre\Desktop\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Alexandre\Desktop\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\Alexandre\Desktop\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Alexandre\Desktop\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Conversor\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\Alexandre\Desktop\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\Alexandre\Desktop\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\bin\Debug\Conversor.exe
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\obj\Debug\Conversor.exe
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Conversor com Kelvin\Conversor\obj\Debug\Conversor.pdb
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\bin\Debug\Conversor.exe
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\obj\Debug\Conversor.exe
+C:\Users\Alexandre\Desktop\Conversor com Kelvin\Conversor\obj\Debug\Conversor.pdb
